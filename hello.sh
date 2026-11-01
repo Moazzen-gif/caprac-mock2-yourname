@@ -1,1 +1,1 @@
-echo "Hello"
+echo "HELLO FROM CR302"
